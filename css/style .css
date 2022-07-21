@@ -1,0 +1,92 @@
+body
+	{
+		background-image: url("wallpaper.jpg");
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+table
+	{
+		border-collapse: collapse;
+		width: 700px;
+	}
+
+button a
+	{
+		color: hotpink;
+	}
+
+th	
+	{
+		background-color: #4C3A51;
+		color: white;
+		padding: 19px;
+		text-align: center;
+		font-family: Papyrus;
+	}
+
+ul
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		background-color: #E8A0BF;
+		overflow: hidden;
+		float: right;
+	}
+
+li a
+	{
+	 text-decoration:none;
+	 color: white;
+	 display: block;
+	 padding: 14px 16px;
+	 text-align: center;
+	}
+
+li
+	{
+		float: left;
+	}
+
+
+li a:hover
+	{
+		background: #243A73;
+		color:#F47C7C;
+
+	}
+
+div.menu
+	{
+		width: 100vw;
+		float: left;
+		position: relative;
+		margin-left: -50vw;
+		left: 50%;
+	}
+
+/*css class*/
+
+p
+	{
+		font-family: Simplified Arabic Fixed;
+		margin-left: 90px;
+		margin-right: 90px;
+		font-size: 18px;
+		padding-left: 50px;
+	}
+h2
+	{
+		font-family: Segoe Script;
+		padding-left: 35px;
+	}
+li a 
+	{
+		font-family: Segoe Script;
+	}
+h3
+	{
+		padding-left: 45px;
+		padding-right: 45px;
+	}
